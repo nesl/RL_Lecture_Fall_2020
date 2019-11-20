@@ -41,3 +41,9 @@ Now, the examples and the code files can be interactively executed using the jup
 $jupyter notebook
 
 ```
+
+# 3. Deleting the Environment
+```
+conda remove --name rlenv --all
+```
+
