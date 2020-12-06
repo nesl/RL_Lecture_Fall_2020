@@ -1,4 +1,4 @@
-# RL_Lecture_Fall_2019
+# RL_Lecture_Fall_2020
 ## Code used for course: CS M213A / ECE M202A
 
 # 1. Environment Setup
@@ -9,7 +9,7 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/install/
 
 2. Setup the environment
 
-$conda create -n rlenv python=3.5 
+$conda create -n rlenv python=3.5
 
 $conda activate rlenv
 
@@ -32,7 +32,7 @@ Activate the environment first:
 
 $git clone https://github.com/nesl/RL_Lecture_Fall_2019.git
 
-$cd RL_Lecture_Fall_2019
+$cd RL_Lecture_Fall_2020
 
 $conda activate rlenv
 
@@ -46,4 +46,3 @@ $jupyter notebook
 ```
 conda remove --name rlenv --all
 ```
-
