@@ -30,7 +30,7 @@ $pip install keras-rl
 ```
 Activate the environment first:
 
-$git clone https://github.com/nesl/RL_Lecture_Fall_2019.git
+$git clone https://github.com/nesl/RL_Lecture_Fall_2020.git
 
 $cd RL_Lecture_Fall_2020
 
